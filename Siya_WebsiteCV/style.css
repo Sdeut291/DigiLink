@@ -198,17 +198,6 @@ header {
     left: 50px;
 }
 
-/*.timeline-Container img {
-    position: absolute;
-    width: 40px;
-    border: 40px;
-    border-radius: 150%;
-    left: -20px;
-    top: 22px;
-    z-index: 10;
-
-}*/
-
 .timeline::after {
     content: '';
     position: absolute;
