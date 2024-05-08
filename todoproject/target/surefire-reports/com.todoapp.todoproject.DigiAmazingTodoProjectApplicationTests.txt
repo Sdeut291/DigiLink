@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.todoapp.todoproject.DigiAmazingTodoProjectApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.84 s -- in com.todoapp.todoproject.DigiAmazingTodoProjectApplicationTests
